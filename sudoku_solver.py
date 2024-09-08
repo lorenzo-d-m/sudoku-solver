@@ -118,5 +118,5 @@ if __name__ == '__main__':
         print(deterministic_solution)
     else:
         solution = guess(deterministic_solution)
-        print("I was an hard work!")
+        print("It was an hard work!")
         print(solution)
